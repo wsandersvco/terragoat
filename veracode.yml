@@ -1,0 +1,5 @@
+veracode_static_scan:
+  push: 
+    trigger: false
+  pull_request:
+    trigger: false
